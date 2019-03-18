@@ -7633,6 +7633,9 @@ body {
 #quotes i {
   opacity: 0.3; }
 
+#quotes2 i {
+  opacity: 0.5; }
+
 @media (max-width: 768px) {
   .navbar {
     background: #1f1f1f; }
